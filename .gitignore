@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database & generated artifacts
+*.db
+certificates.db
+test_certificates.db
+generated/*
+!generated/.gitkeep
+
+# Environment & IDE
+.env
+.venv/
+venv/
+ENV/
+.pytest_cache/
+.vscode/
+.idea/
