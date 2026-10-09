@@ -394,12 +394,3 @@ For a production deployment, the architecture could be extended with a durable w
 * Add structured logging, metrics, and operational monitoring.
 * Improve delivery guarantees and recovery for interrupted jobs.
 
-## Assignment Scope
-
-This implementation focuses on the requested backend workflow: bulk requests, validation, personalized certificate generation from one predefined template, job progress tracking, partial-failure handling, certificate retrieval, automated testing, and setup documentation.
-
-The project deliberately avoids adding a template editor or a multi-template design system because those features are outside the assignment's stated scope.
-
-## License
-
-No license has been specified. Add an appropriate license if you intend to distribute the project for reuse.
